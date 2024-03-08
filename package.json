@@ -1,0 +1,7 @@
+{
+  "name": "Desafio 2 - Cypress Avanzado",
+  "version": "1.0.0",
+  "devDependencies": {
+    "cypress": "*"
+  }
+}

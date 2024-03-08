@@ -1,0 +1,13 @@
+
+{
+  "dataLogin": {
+    "user": "pushingit",
+    "password": "123456!"
+  },
+  "product": {
+    "name": "Sweater rosa",
+    "price": 100,
+    "img": "https://twicpics.celine.com/product-prd/images/large/2AF73086U.24PI_1_SPR23.jpg?twic=v1/resize-max=2500/quality-min=100",
+    "id": 123
+  }
+}
